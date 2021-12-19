@@ -1,0 +1,50 @@
+body {
+  background-color: #BA6126;
+}
+h1 {
+  color: #9F193A;
+  text-shadow: 1px 1px 1px #000000;
+}
+h2 {
+  color: #9F193A;
+}
+p {
+  color:#473144;
+  font-size:20px;
+}
+div {
+  background-color:#DE9768;
+  border: 2px solid #552C11;
+  padding-top: 30px;
+  padding-right: 200px;
+  padding-bottom: 30px;
+  padding-left: 100px;
+  margin: 10px;
+}
+a:link {
+  color: #9F193A;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #E97290;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #E34F74;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #ffff00;
+  background-color: transparent;
+  text-decoration: underline;
+}
+abbr[title] {
+  border-bottom: none;
+  cursor: inherit;
+  text-decoration: underline 1px;
+  font-style: italic;
+  color:
+}
