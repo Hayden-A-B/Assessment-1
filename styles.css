@@ -1,4 +1,4 @@
-body {
+html, body {
   background-color: #BA6126;
 }
 h1 {
@@ -7,6 +7,10 @@ h1 {
 }
 h2 {
   color: #9F193A;
+}
+h3 {
+  color: #7B142E;
+  margin: 5px;
 }
 p {
   width: 60%;
@@ -26,10 +30,10 @@ div {
 a:link {
   color: #9F193A;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline 1px;
 }
 a:visited {
-  color: #E97290;
+  color: #9F193A;
   background-color: transparent;
   text-decoration: none;
 }
@@ -49,4 +53,7 @@ abbr[title] {
   text-decoration: underline 1px;
   font-style: italic;
   color:
+}
+ul {
+  list-style-type: none;
 }
