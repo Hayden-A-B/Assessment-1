@@ -9,8 +9,10 @@ h2 {
   color: #9F193A;
 }
 p {
-  color:#473144;
-  font-size:20px;
+  width: 60%;
+  color: #473144;
+  margin: 20px;
+  font-size: 20px;
 }
 div {
   background-color:#DE9768;
@@ -34,7 +36,7 @@ a:visited {
 a:hover {
   color: #E34F74;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: underline 1px;
 }
 a:active {
   color: #ffff00;
