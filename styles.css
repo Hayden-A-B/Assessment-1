@@ -43,7 +43,7 @@ dd {
 }
 
 img {
-    
+    border: 5px ridge #9F193A;
 }
 
 img:hover {
